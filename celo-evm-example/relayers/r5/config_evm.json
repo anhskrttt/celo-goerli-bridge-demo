@@ -1,0 +1,12 @@
+{
+  "name": "goerli",
+  "id": "1",
+  "endpoint": "https://goerli.blockpi.network/v1/rpc/public",
+  "from": "0x5C218294A28543A01421171e532e1E7f95116F45",
+  "bridge": "0x8110f2905bCE9976aD00f1F81ABbC66b12006cb1",
+  "erc20Handler": "0xf6E62355570E8bB59845F70c91E0Ea083FB916D8",
+  "gasLimit": "9000000",
+  "maxGasPrice": "20000000000",
+  "blockConfirmations": "10",
+  "startBlock": "8561156"
+}
