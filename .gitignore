@@ -26,8 +26,6 @@ site/
 # golang
 .env
 bridge
-keys/
-*.key
 
 # Chainbridge
 config.toml
@@ -41,7 +39,6 @@ centrifuge-chain/
 /cfgBuilder/*.toml
 */lvldbdata
 /lvldbdata
-/keys
 /client_configs
 chainbridge-core-example
 dist/
